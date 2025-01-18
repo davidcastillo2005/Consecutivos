@@ -1,0 +1,14 @@
+E:\Consecutivos\bin\Debug\net8.0\Consecutivos.exe
+E:\Consecutivos\bin\Debug\net8.0\Consecutivos.deps.json
+E:\Consecutivos\bin\Debug\net8.0\Consecutivos.runtimeconfig.json
+E:\Consecutivos\bin\Debug\net8.0\Consecutivos.dll
+E:\Consecutivos\bin\Debug\net8.0\Consecutivos.pdb
+E:\Consecutivos\obj\Debug\net8.0\Consecutivos.GeneratedMSBuildEditorConfig.editorconfig
+E:\Consecutivos\obj\Debug\net8.0\Consecutivos.AssemblyInfoInputs.cache
+E:\Consecutivos\obj\Debug\net8.0\Consecutivos.AssemblyInfo.cs
+E:\Consecutivos\obj\Debug\net8.0\Consecutivos.csproj.CoreCompileInputs.cache
+E:\Consecutivos\obj\Debug\net8.0\Consecutivos.dll
+E:\Consecutivos\obj\Debug\net8.0\refint\Consecutivos.dll
+E:\Consecutivos\obj\Debug\net8.0\Consecutivos.pdb
+E:\Consecutivos\obj\Debug\net8.0\Consecutivos.genruntimeconfig.cache
+E:\Consecutivos\obj\Debug\net8.0\ref\Consecutivos.dll
