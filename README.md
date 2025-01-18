@@ -1,3 +1,4 @@
+# Consecutivos
 Sea a un array de enteros y k un entero positivo. Implemente un metodo que determine si en a existen k elementos consecutivos iguales.
 Ejemplos:
 - Para a = [1, 2, 2, 2, 3, 4] y k = 3, la salida debe ser true, ya que 2 aparece tres veces consecutivas.
